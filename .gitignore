@@ -1,0 +1,24 @@
+# folders
+**/__pycache__
+**/venv
+**/.vscode
+**/build
+**/node_modules
+**/jspm_packages
+**/.vs
+**/typings
+**/logs
+**/temp
+**/.idea
+**/.fleet
+**/pids
+**/tests
+
+# files
+**/*.env
+**/*.log
+**/*.mongodb
+**/yarn-error.log
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
